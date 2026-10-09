@@ -93,7 +93,7 @@ Dependendo da gravidade e de quantas vezes aconteceu:
 | Violação grave (conteúdo sexual, ódio, ameaça, golpe, exposição de dados, fraude de localização em massa) | **Banimento** imediato |
 | Crime | Banimento e comunicação às autoridades |
 
-Para contestar uma decisão, escreva para **[E-MAIL DE CONTATO]**, explicando o caso.
+Para contestar uma decisão, escreva para **userm4c@gmail.com**, explicando o caso.
 
 ## 10. Mudanças
 
