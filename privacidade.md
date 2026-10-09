@@ -144,7 +144,7 @@ Pela LGPD, você pode pedir a qualquer momento:
 - **revogação do consentimento** (por exemplo, desligando a localização ou as notificações nas configurações do Android);
 - **revisão** de decisões tomadas só por meios automáticos.
 
-**Como pedir:** escreva para **[E-MAIL DE CONTATO]**. Respondemos em até **15 dias**. Você também pode reclamar à **Autoridade Nacional de Proteção de Dados (ANPD)**.
+**Como pedir:** escreva para **userm4c@gmail.com**. Respondemos em até **15 dias**. Você também pode reclamar à **Autoridade Nacional de Proteção de Dados (ANPD)**.
 
 ## 10. Segurança
 
