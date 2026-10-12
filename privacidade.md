@@ -32,6 +32,9 @@ Esta política explica quais dados o CitySpots coleta, para que usa, com quem co
 |---|---|---|
 | E-mail e senha (guardamos só uma versão criptografada da senha) | Cadastro | Sim |
 | Nome de usuário e nome de exibição | Cadastro e perfil | Sim |
+| **Data de nascimento** (nunca aparece para outras pessoas; serve para confirmar a idade mínima de 13 anos) e, de 13 a 17 anos, a declaração de que o responsável autorizou | Cadastro | Sim |
+| **Cidade de origem** (escolhida por você, ou sugerida pela localização do aparelho no momento do cadastro, só se você tocar em "Usar minha localização") | Cadastro | Sim |
+| Confirmação do e-mail (um código de 6 dígitos enviado para o seu e-mail; guardamos só a data da confirmação) | Cadastro ou depois | Não |
 | Foto de perfil, banner, bio, pronomes e links (Instagram, TikTok, YouTube, site) | Quando você personaliza o perfil | Não |
 | Gênero | Editar perfil | Não |
 | Spots, fotos, check-ins, legendas, observações, comentários, avistamentos e trilhas | Quando você publica | Não |
@@ -50,7 +53,7 @@ Esta política explica quais dados o CitySpots coleta, para que usa, com quem co
 | **No check-in:** a posição, a precisão do GPS, a velocidade e se a localização parece **simulada** | Evitar check-ins falsos e trapaças no ranking |
 | Endereço IP e data/hora de login | Segurança da conta e encerramento de sessões |
 | Identificador do aparelho para notificações (token do Firebase) | Enviar notificações push, se você permitir |
-| **Região de origem** (país, estado e cidade), deduzida da cidade onde você mais faz check-ins e cria spots, e o **horário do último uso do app** | Estatísticas internas por região (quantas pessoas usam o app em cada cidade) e organização da moderação por região. Nunca é mostrada a outros usuários e não guarda sua posição exata |
+| **Região de origem** (país, estado e cidade): a que você informou no cadastro ou, para contas antigas que ainda não informaram, deduzida da cidade onde você mais faz check-ins e cria spots; e o **horário do último uso do app** | Estatísticas internas por região (quantas pessoas usam o app em cada cidade) e organização da moderação por região. Nunca é mostrada a outros usuários e não guarda sua posição exata |
 | Versão do app | Avisar quando há uma atualização obrigatória |
 | **Câmera**, só quando você toca em "Tirar foto" ou abre o leitor de QR | Fotografar o check-in ou o spot e ler o QR code do lugar. A leitura do QR acontece no aparelho: **não guardamos nem enviamos as imagens da câmera**, só a foto que você escolher publicar |
 | QR code do lugar, quando você usa | Confirmar um check-in em lugar fechado, onde o GPS é impreciso |
