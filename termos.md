@@ -47,6 +47,8 @@ O app está em **fase de testes (beta)**. Funções podem mudar, ser removidas o
 
 **Spots são colaborativos.** Um spot que você cadastra vira parte do mapa da comunidade: outras pessoas podem fazer check-in, comentar e sugerir edições, e a equipe pode corrigir informações. Se você apagar sua conta, o spot pode continuar no app, sem vínculo com você.
 
+**Spots novos passam por confirmação.** O spot que você cadastra fica visível só para você até que membros confiáveis da cidade confirmem que o lugar existe e as informações estão certas, ou até a equipe aprovar. Spots de membros confiáveis entram direto.
+
 **Quem cria não apaga o spot.** Um spot só sai do mapa por **votação de membros confiáveis da cidade**, com um motivo, ou por decisão da equipe. O criador é avisado e pode contestar. Se o lugar deixou de existir (fechou, mudou ou é duplicado), o spot vira uma **memória**: some do mapa, mas continua para quem visitou. Se for falso, impróprio ou perigoso, é removido.
 
 **Seus check-ins.** Você pode **ocultar** um check-in (ele some para os outros) ou **excluí-lo** de vez.
