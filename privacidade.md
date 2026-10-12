@@ -4,7 +4,7 @@ title: Política de Privacidade
 permalink: /privacidade/
 ---
 
-**Última atualização:** 11 de outubro de 2026
+**Última atualização:** 12 de outubro de 2026
 
 Esta política explica quais dados o CitySpots coleta, para que usa, com quem compartilha, por quanto tempo guarda e como você controla tudo isso. Ela segue a **Lei Geral de Proteção de Dados (LGPD, Lei nº 13.709/2018)**.
 
@@ -50,6 +50,7 @@ Esta política explica quais dados o CitySpots coleta, para que usa, com quem co
 | **No check-in:** a posição, a precisão do GPS, a velocidade e se a localização parece **simulada** | Evitar check-ins falsos e trapaças no ranking |
 | Endereço IP e data/hora de login | Segurança da conta e encerramento de sessões |
 | Identificador do aparelho para notificações (token do Firebase) | Enviar notificações push, se você permitir |
+| **Região de origem** (país, estado e cidade), deduzida da cidade onde você mais faz check-ins e cria spots, e o **horário do último uso do app** | Estatísticas internas por região (quantas pessoas usam o app em cada cidade) e organização da moderação por região. Nunca é mostrada a outros usuários e não guarda sua posição exata |
 | Versão do app | Avisar quando há uma atualização obrigatória |
 | **Câmera**, só quando você toca em "Tirar foto" ou abre o leitor de QR | Fotografar o check-in ou o spot e ler o QR code do lugar. A leitura do QR acontece no aparelho: **não guardamos nem enviamos as imagens da câmera**, só a foto que você escolher publicar |
 | QR code do lugar, quando você usa | Confirmar um check-in em lugar fechado, onde o GPS é impreciso |
