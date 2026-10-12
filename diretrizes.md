@@ -4,11 +4,11 @@ title: Diretrizes da Comunidade
 permalink: /diretrizes/
 ---
 
-**Última atualização:** 11 de outubro de 2026
+**Última atualização:** 12 de outubro de 2026
 
 O CitySpots existe para a gente descobrir, valorizar e cuidar dos lugares da nossa cidade, juntos. Estas diretrizes explicam o que esperamos de quem participa. Elas valem para tudo o que você publica: spots, fotos, check-ins, legendas, observações, comentários, avistamentos, trilhas, perfil e anúncios.
 
-Elas fazem parte dos [Termos de Uso]({{ site.baseurl }}/termos/). Quem não segue as diretrizes pode ter conteúdo removido e a conta suspensa ou banida (veja a seção 9).
+Elas fazem parte dos [Termos de Uso](TERMOS_DE_USO.md). Quem não segue as diretrizes pode ter conteúdo removido e a conta suspensa ou banida (veja a seção 9).
 
 ---
 
@@ -73,14 +73,16 @@ Nome, nome de exibição, foto, banner, bio, links e cores do perfil também seg
 2. Ela é revisada por **membros confiáveis da comunidade** (usuários com histórico positivo, convidados pela equipe) e pela **equipe do CitySpots**.
 3. Se o conteúdo violar estas diretrizes, ele é removido, e a conta pode receber as medidas da seção 9.
 
-**Membros confiáveis** revisam denúncias, votam a remoção de spots da sua cidade e podem convidar pessoas. Eles devem:
+**Membros confiáveis** revisam denúncias, confirmam spots novos e votam a remoção de spots da sua cidade, e podem convidar pessoas.
+
+**Ser membro confiável é um convite, não uma obrigação.** A equipe convida; a pessoa decide se aceita. Recusar não tem nenhuma consequência, e quem aceitou pode deixar o status quando quiser (XP, títulos e cosméticos continuam). Ao aceitar, o membro concorda com as regras abaixo. Os membros confiáveis devem:
 - **ler antes de decidir:** abrir o conteúdo ou o spot e conferir antes de aprovar, rejeitar ou votar;
 - **evitar conflito de interesse:** não decidir sobre conteúdo próprio, de amigos, de rivais ou de lugares ligados a eles;
 - **votar só no que conhecem:** nas votações de remoção, votar quando souberem se o lugar existe e como ele está;
 - **convidar com responsabilidade:** os códigos aprovam contas na hora; convidar contas falsas ou vender convites tira o status;
 - **manter a conta exemplar:** sem violações e sem abuso do acesso.
 
-A equipe pode retirar o status de confiável a qualquer momento, sem aviso prévio, se houver abuso.
+A equipe pode retirar o status de confiável a qualquer momento, sem aviso prévio, se houver abuso das regras aceitas.
 
 **Remoção de spots pela comunidade.** Qualquer pessoa pode pedir a remoção de um spot, com um motivo. Os membros confiáveis ativos na cidade votam; com a maioria de dois terços, o spot vira uma **memória** (se o lugar deixou de existir) ou é removido (se for falso, impróprio ou perigoso). Quem criou o spot é avisado e pode contestar, e então a equipe decide. Pedir remoção de má-fé também é uma violação.
 
