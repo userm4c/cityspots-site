@@ -4,7 +4,7 @@ title: Termos de Uso
 permalink: /termos/
 ---
 
-**Última atualização:** 9 de outubro de 2026
+**Última atualização:** 11 de outubro de 2026
 
 Bem-vindo ao CitySpots! Estes Termos de Uso são o acordo entre você e o responsável pelo CitySpots. Ao criar uma conta ou usar o app, você concorda com eles, com as [Diretrizes da Comunidade]({{ site.baseurl }}/diretrizes/) e com a [Política de Privacidade]({{ site.baseurl }}/privacidade/). Se não concordar, não use o app.
 
@@ -47,6 +47,10 @@ O app está em **fase de testes (beta)**. Funções podem mudar, ser removidas o
 
 **Spots são colaborativos.** Um spot que você cadastra vira parte do mapa da comunidade: outras pessoas podem fazer check-in, comentar e sugerir edições, e a equipe pode corrigir informações. Se você apagar sua conta, o spot pode continuar no app, sem vínculo com você.
 
+**Quem cria não apaga o spot.** Um spot só sai do mapa por **votação de membros confiáveis da cidade**, com um motivo, ou por decisão da equipe. O criador é avisado e pode contestar. Se o lugar deixou de existir (fechou, mudou ou é duplicado), o spot vira uma **memória**: some do mapa, mas continua para quem visitou. Se for falso, impróprio ou perigoso, é removido.
+
+**Seus check-ins.** Você pode **ocultar** um check-in (ele some para os outros) ou **excluí-lo** de vez.
+
 **Sua responsabilidade.** Você garante que tem o direito de publicar o que publica (é sua foto, ou você tem autorização) e que o conteúdo não viola a lei nem as Diretrizes.
 
 **Fotos de pessoas.** Rostos são desfocados automaticamente nas fotos de spots e check-ins, mas a ferramenta pode falhar. Evite fotografar pessoas sem autorização.
@@ -58,7 +62,10 @@ Além do que está nas Diretrizes da Comunidade, é proibido:
 - usar o app para atividades ilegais;
 - tentar invadir, sobrecarregar, copiar em massa (*scraping*) ou fazer engenharia reversa do app ou do servidor;
 - burlar as regras de XP, ranking, raridade ou interesse;
-- usar o app para enviar propaganda fora dos anúncios oficiais.
+- usar o app para enviar propaganda fora dos anúncios oficiais;
+- criar contas falsas com **códigos de convite**, ou vender e trocar convites;
+- compartilhar, fotografar ou reutilizar o **QR code de um lugar** para fazer check-in sem estar lá;
+- pedir a remoção de spots ou votar sem um motivo real, por exemplo para prejudicar um lugar ou uma pessoa.
 
 ## 6. Segurança ao explorar
 
@@ -72,16 +79,19 @@ O CitySpots mostra lugares, mas **não garante que eles sejam seguros, abertos, 
 
 - XP, níveis, títulos, selos, o 🔥 de interesse e os itens de personalização são **elementos do jogo**: **não têm valor em dinheiro**, não podem ser vendidos nem trocados fora do app e não são sua propriedade.
 - Podemos ajustar as regras de pontuação, corrigir erros e **retirar XP, títulos ou itens obtidos com trapaça ou falha do sistema**.
+- **O XP acompanha o conteúdo.** Se um spot, check-in ou comentário for excluído (por você, por denúncia ou por decisão da comunidade), o XP, os desafios, os títulos, os selos e os cosméticos ganhos com ele são retirados, e o seu nível pode cair. **Ocultar** um check-in não retira nada.
+- Os **desafios da semana** valem para todos, trocam toda segunda-feira e podem mudar sem aviso.
 - **Selo Pioneiro:** quem participou do beta recebe o selo Pioneiro e acesso aos itens de personalização disponíveis até o fim do beta. Itens criados depois do beta não estão incluídos.
 - Se no futuro houver itens ou assinaturas pagos, as condições de compra, preço e reembolso serão informadas antes da compra.
 
 ## 8. Anúncios
 
-O CitySpots é gratuito e pode exibir **anúncios**, sempre identificados como **"Patrocinado"**: anúncios do Google e anúncios criados por usuários e comércios. Anúncios criados no app seguirão uma **Política de Anúncios** própria, publicada quando a função estiver disponível. Não somos responsáveis pelos produtos ou serviços anunciados por terceiros.
+O CitySpots é gratuito e pode exibir **anúncios**, sempre identificados como **"Patrocinado"**: anúncios do próprio CitySpots, anúncios do Google e, no futuro, anúncios criados por usuários e comércios. Durante o beta, os anúncios do Google são apenas de teste. Anúncios criados no app seguirão uma **Política de Anúncios** própria, publicada quando a função estiver disponível. Não somos responsáveis pelos produtos ou serviços anunciados por terceiros.
 
 ## 9. Moderação, suspensão e encerramento
 
 - Podemos **remover conteúdo** e **suspender ou encerrar contas** que violem estes termos ou as Diretrizes, como descrito nelas.
+- Membros confiáveis da comunidade ajudam a revisar denúncias e votam a remoção de spots. A equipe tem a palavra final e revê os casos contestados.
 - Em casos graves ou ilegais, a medida pode ser imediata e sem aviso prévio.
 - **Você pode sair quando quiser:** é possível excluir sua conta pelo app (Configurações → Excluir conta) ou pedindo pelo e-mail de contato. O que acontece com os seus dados está na Política de Privacidade.
 
