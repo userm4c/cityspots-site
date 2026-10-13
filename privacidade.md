@@ -4,7 +4,7 @@ title: Política de Privacidade
 permalink: /privacidade/
 ---
 
-**Última atualização:** 12 de outubro de 2026
+**Última atualização:** 13 de outubro de 2026
 
 Esta política explica quais dados o CitySpots coleta, para que usa, com quem compartilha, por quanto tempo guarda e como você controla tudo isso. Ela segue a **Lei Geral de Proteção de Dados (LGPD, Lei nº 13.709/2018)**.
 
@@ -55,7 +55,8 @@ Esta política explica quais dados o CitySpots coleta, para que usa, com quem co
 | Endereço IP e data/hora de login | Segurança da conta e encerramento de sessões |
 | Identificador do aparelho para notificações (token do Firebase) | Enviar notificações push, se você permitir |
 | **Região de origem** (país, estado e cidade): a que você informou no cadastro ou, para contas antigas que ainda não informaram, deduzida da cidade onde você mais faz check-ins e cria spots; e o **horário do último uso do app** | Estatísticas internas por região (quantas pessoas usam o app em cada cidade) e organização da moderação por região. Nunca é mostrada a outros usuários e não guarda sua posição exata |
-| Versão do app | Avisar quando há uma atualização obrigatória |
+| Versão do app que você usa | Avisar quando há uma atualização obrigatória e saber quando versões antigas podem deixar de funcionar |
+| **Relatórios de falha:** quando o app fecha sozinho ou uma tela quebra, o app envia automaticamente a mensagem do erro, o trecho do código onde ele aconteceu, a tela em que você estava, a versão do app, a versão do sistema e o modelo do celular. Se você estiver logado, o relatório fica ligado à sua conta | Encontrar e corrigir problemas no app. **Não inclui** fotos, textos que você digitou nem sua localização |
 | **Câmera**, só quando você toca em "Tirar foto" ou abre o leitor de QR | Fotografar o check-in ou o spot e ler o QR code do lugar. A leitura do QR acontece no aparelho: **não guardamos nem enviamos as imagens da câmera**, só a foto que você escolher publicar |
 | QR code do lugar, quando você usa | Confirmar um check-in em lugar fechado, onde o GPS é impreciso |
 | **Check-in feito sem internet:** posição, precisão do GPS, horário e foto | Ficam **no seu aparelho** até a conexão voltar e então são enviados. O servidor só aceita até 24 horas depois da visita |
@@ -77,6 +78,7 @@ Esta política explica quais dados o CitySpots coleta, para que usa, com quem co
 | Votação da comunidade para remover um spot ou transformá-lo em memória | Legítimo interesse (manter o mapa correto e seguro) |
 | Moderação: desfocar rostos, detectar nudez, analisar denúncias, combater fraude e contas falsas | **Legítimo interesse** (segurança da comunidade) e cumprimento de obrigação legal |
 | Segurança da conta (IP, sessões) | Legítimo interesse |
+| Relatórios de falha e versão do app | Legítimo interesse (manter o app funcionando e corrigir problemas) |
 | Guardar registros de acesso exigidos pelo **Marco Civil da Internet** | Cumprimento de obrigação legal |
 | Estatísticas **anônimas e agregadas** sobre os lugares (por exemplo, "120 check-ins em outubro") que podem ser compartilhadas com parceiros | Legítimo interesse, sem identificar ninguém |
 | Anúncios da casa e anúncios de teste (seção 6) | Legítimo interesse |
@@ -154,6 +156,7 @@ Os demais dados (conta, publicações, localização dos check-ins) ficam no **n
 | Dados de denúncias e moderação | Enquanto forem necessários para a segurança da comunidade ou exigidos por lei |
 | Registro de XP e de conquistas retiradas (estorno) | Enquanto a conta existir |
 | Exibições e toques em anúncios | 90 dias |
+| Relatórios de falha | 90 dias |
 | Check-ins guardados no aparelho sem internet | Até serem enviados, ou descartados se passarem de 24 horas |
 | Cidade baixada no aparelho | Até você apagar em Configurações → Offline ou desinstalar o app |
 
