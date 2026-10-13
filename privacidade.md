@@ -35,6 +35,7 @@ Esta política explica quais dados o CitySpots coleta, para que usa, com quem co
 | **Data de nascimento** (nunca aparece para outras pessoas; serve para confirmar a idade mínima de 13 anos) e, de 13 a 17 anos, a declaração de que o responsável autorizou | Cadastro | Sim |
 | **Cidade de origem** (escolhida por você, ou sugerida pela localização do aparelho no momento do cadastro, só se você tocar em "Usar minha localização") | Cadastro | Sim |
 | Confirmação do e-mail (um código de 6 dígitos enviado para o seu e-mail; guardamos só a data da confirmação) | Cadastro ou depois | Não |
+| Mensagens ao **suporte** (o que você escreve, e as respostas da equipe), com a versão do app e o modelo do celular; sem login, também o nome e o e-mail que você informar para a resposta | Quando você fala com o suporte | Não |
 | Foto de perfil, banner, bio, pronomes e links (Instagram, TikTok, YouTube, site) | Quando você personaliza o perfil | Não |
 | Gênero | Editar perfil | Não |
 | Spots, fotos, check-ins, legendas, observações, comentários, avistamentos e trilhas | Quando você publica | Não |
