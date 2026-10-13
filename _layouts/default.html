@@ -53,7 +53,8 @@
       <img src="{{ site.baseurl }}/assets/logo.png" alt="CitySpots" width="179" height="40">
     </a>
   </header>
-  <nav aria-label="Documentos">
+  <nav aria-label="Navegação">
+    <a href="{{ site.baseurl }}/baixar/" {% if page.url == '/baixar/' %}aria-current="page"{% endif %} style="color: var(--gold); font-weight: 700">⬇️ Baixar o app</a>
     <a href="{{ site.baseurl }}/termos/" {% if page.url == '/termos/' %}aria-current="page"{% endif %}>Termos de Uso</a>
     <a href="{{ site.baseurl }}/privacidade/" {% if page.url == '/privacidade/' %}aria-current="page"{% endif %}>Política de Privacidade</a>
     <a href="{{ site.baseurl }}/diretrizes/" {% if page.url == '/diretrizes/' %}aria-current="page"{% endif %}>Diretrizes da Comunidade</a>

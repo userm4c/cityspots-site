@@ -21,6 +21,10 @@ O **CitySpots** é um app para encontrar e compartilhar os lugares especiais da 
 
 O app está em **teste fechado (beta)** para Android.
 
+<p style="text-align:center;margin:28px 0">
+  <a href="{{ site.baseurl }}/baixar/" style="display:inline-block;background:#6C63FF;color:#fff;text-decoration:none;font-weight:700;font-size:18px;padding:14px 26px;border-radius:14px">⬇️ Baixar o app</a>
+</p>
+
 ## Documentos
 
 - [Termos de Uso]({{ site.baseurl }}/termos/)
