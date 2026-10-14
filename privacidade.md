@@ -4,7 +4,7 @@ title: Política de Privacidade
 permalink: /privacidade/
 ---
 
-**Última atualização:** 13 de outubro de 2026
+**Última atualização:** 14 de outubro de 2026
 
 Esta política explica quais dados o CitySpots coleta, para que usa, com quem compartilha, por quanto tempo guarda e como você controla tudo isso. Ela segue a **Lei Geral de Proteção de Dados (LGPD, Lei nº 13.709/2018)**.
 
@@ -36,6 +36,7 @@ Esta política explica quais dados o CitySpots coleta, para que usa, com quem co
 | **Cidade de origem** (escolhida por você, ou sugerida pela localização do aparelho no momento do cadastro, só se você tocar em "Usar minha localização") | Cadastro | Sim |
 | Confirmação do e-mail (um código de 6 dígitos enviado para o seu e-mail; guardamos só a data da confirmação) | Cadastro ou depois | Não |
 | Mensagens ao **suporte** (o que você escreve, e as respostas da equipe), com a versão do app e o modelo do celular; sem login, também o nome e o e-mail que você informar para a resposta | Quando você fala com o suporte | Não |
+| **Sugestões** no mural (título, explicação) e os votos ("Quero também") que você dá | Quando você sugere ou vota | Não |
 | Foto de perfil, banner, bio, pronomes e links (Instagram, TikTok, YouTube, site) | Quando você personaliza o perfil | Não |
 | Gênero | Editar perfil | Não |
 | Spots, fotos, check-ins, legendas, observações, comentários, avistamentos e trilhas | Quando você publica | Não |
@@ -93,6 +94,7 @@ Esta política explica quais dados o CitySpots coleta, para que usa, com quem co
 - comentários, o número de curtidas, quem você segue e quem segue você;
 - a lista "Quero visitar" (spots com seu <span class="ic-fire">{% include icons/flame.svg %}</span>), **se você deixar visível**;
 - o **passaporte de cidades** (as cidades onde você fez check-in), que segue a mesma regra de privacidade dos seus check-ins.
+- **sugestões que você envia ao mural**, com o seu nome de usuário. Quem votou em cada sugestão não aparece: só o número de votos.
 
 **Só você (e a equipe, quando necessário para operar o app):**
 - e-mail, senha, gênero;
