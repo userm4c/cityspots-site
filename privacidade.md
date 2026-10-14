@@ -39,7 +39,7 @@ Esta política explica quais dados o CitySpots coleta, para que usa, com quem co
 | Foto de perfil, banner, bio, pronomes e links (Instagram, TikTok, YouTube, site) | Quando você personaliza o perfil | Não |
 | Gênero | Editar perfil | Não |
 | Spots, fotos, check-ins, legendas, observações, comentários, avistamentos e trilhas | Quando você publica | Não |
-| Curtidas, 🔥 de interesse, pessoas que você segue | Quando você interage | Não |
+| Curtidas, <span class="ic-fire">{% include icons/flame.svg %}</span> de interesse, pessoas que você segue | Quando você interage | Não |
 | Denúncias e seus motivos | Quando você denuncia | Não |
 | Código de convite usado no cadastro (registra **quem convidou você**) | Cadastro com convite | Não |
 | Pedidos de remoção de spot e votos nesses pedidos | Quando você pede ou vota (votar é só para membros confiáveis) | Não |
@@ -91,7 +91,7 @@ Esta política explica quais dados o CitySpots coleta, para que usa, com quem co
 - spots que você cadastrou;
 - **check-ins, de acordo com a sua escolha** (seção 5);
 - comentários, o número de curtidas, quem você segue e quem segue você;
-- a lista "Quero visitar" (spots com seu 🔥), **se você deixar visível**;
+- a lista "Quero visitar" (spots com seu <span class="ic-fire">{% include icons/flame.svg %}</span>), **se você deixar visível**;
 - o **passaporte de cidades** (as cidades onde você fez check-in), que segue a mesma regra de privacidade dos seus check-ins.
 
 **Só você (e a equipe, quando necessário para operar o app):**
@@ -120,7 +120,7 @@ Fica em **Configurações → Privacidade dos check-ins**. Você também pode **
 Quando anúncios reais de terceiros forem ligados:
 - os anúncios do **Google (AdMob)** podem usar o **identificador de publicidade** do aparelho e dados de uso para escolher anúncios. O app vai pedir seu consentimento quando a lei exigir. Você pode reiniciar ou desativar esse identificador nas configurações do Android;
 - os **anúncios criados no CitySpots** são mostrados conforme a **região** (o raio em torno de um spot), sem usar dados sensíveis como idade, gênero ou saúde;
-- para medir resultados, o anunciante recebe só **números agregados** (quantas pessoas viram, tocaram, deram 🔥 ou fizeram check-in), **nunca quem foi**.
+- para medir resultados, o anunciante recebe só **números agregados** (quantas pessoas viram, tocaram, deram <span class="ic-fire">{% include icons/flame.svg %}</span> ou fizeram check-in), **nunca quem foi**.
 
 Esta política será atualizada antes de qualquer anúncio real de terceiros ser ligado.
 

@@ -29,7 +29,7 @@ permalink: /baixar/
 <div class="dl-hero">
   <p>Beta fechado para Android · gratuito</p>
   <a class="dl-btn" id="dl" href="https://github.com/userm4c/cityspots-releases/releases/latest/download/CitySpots.apk">
-    ⬇️ Baixar para Android
+    {% include icons/download.svg %} Baixar para Android
   </a>
   <div class="dl-meta" id="meta">Versão mais recente · Android 7.0 ou mais novo</div>
   <div class="dl-qr">

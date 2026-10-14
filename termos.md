@@ -17,7 +17,7 @@ Bem-vindo ao CitySpots! Estes Termos de Uso são o acordo entre você e o respon
 O CitySpots é um aplicativo para descobrir e compartilhar lugares de uma cidade (os **spots**). Nele você pode:
 - explorar spots no mapa e na lista;
 - fazer **check-in** nos lugares que visita, com foto;
-- cadastrar spots, seguir **trilhas**, comentar, curtir e marcar o 🔥 de interesse;
+- cadastrar spots, seguir **trilhas**, comentar, curtir e marcar o <span class="ic-fire">{% include icons/flame.svg %}</span> de interesse;
 - ganhar XP, níveis, títulos e selos;
 - personalizar o seu perfil.
 
@@ -79,7 +79,7 @@ O CitySpots mostra lugares, mas **não garante que eles sejam seguros, abertos, 
 
 ## 7. XP, níveis, títulos, selos e cosméticos
 
-- XP, níveis, títulos, selos, o 🔥 de interesse e os itens de personalização são **elementos do jogo**: **não têm valor em dinheiro**, não podem ser vendidos nem trocados fora do app e não são sua propriedade.
+- XP, níveis, títulos, selos, o <span class="ic-fire">{% include icons/flame.svg %}</span> de interesse e os itens de personalização são **elementos do jogo**: **não têm valor em dinheiro**, não podem ser vendidos nem trocados fora do app e não são sua propriedade.
 - Podemos ajustar as regras de pontuação, corrigir erros e **retirar XP, títulos ou itens obtidos com trapaça ou falha do sistema**.
 - **O XP acompanha o conteúdo.** Se um spot, check-in ou comentário for excluído (por você, por denúncia ou por decisão da comunidade), o XP, os desafios, os títulos, os selos e os cosméticos ganhos com ele são retirados, e o seu nível pode cair. **Ocultar** um check-in não retira nada.
 - Os **desafios da semana** valem para todos, trocam toda segunda-feira e podem mudar sem aviso.

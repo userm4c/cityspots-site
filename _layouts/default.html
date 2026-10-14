@@ -21,7 +21,13 @@
       border-bottom: 1px solid var(--border); padding: 18px 16px;
       display: flex; justify-content: center;
     }
-    header img { height: 40px; width: auto; display: block; }
+    header img { height: 44px; width: auto; display: block; }
+    /* Ícones do Tabler (tabler.io/icons), embutidos em _includes/icons/ */
+    .ti { width: 1.15em; height: 1.15em; vertical-align: -0.2em; flex: none; }
+    .ic-gold { color: var(--gold); } .ic-purple { color: var(--purple); } .ic-fire { color: #f97316; }
+    .features { list-style: none; padding: 0; }
+    .features li { display: flex; gap: 12px; align-items: flex-start; margin: 10px 0; }
+    .features .ti { width: 1.4em; height: 1.4em; margin-top: 0.1em; color: var(--gold); }
     nav {
       display: flex; flex-wrap: wrap; justify-content: center; gap: 6px 18px;
       padding: 12px 16px; border-bottom: 1px solid var(--border); font-size: 14px;
@@ -50,11 +56,11 @@
 <body>
   <header>
     <a href="{{ site.baseurl }}/" aria-label="CitySpots, página inicial">
-      <img src="{{ site.baseurl }}/assets/logo.png" alt="CitySpots" width="179" height="40">
+      <img src="{{ site.baseurl }}/assets/logo.png" alt="CitySpots" width="142" height="44">
     </a>
   </header>
   <nav aria-label="Navegação">
-    <a href="{{ site.baseurl }}/baixar/" {% if page.url == '/baixar/' %}aria-current="page"{% endif %} style="color: var(--gold); font-weight: 700">⬇️ Baixar o app</a>
+    <a href="{{ site.baseurl }}/baixar/" {% if page.url == '/baixar/' %}aria-current="page"{% endif %} style="color: var(--gold); font-weight: 700">{% include icons/download.svg %} Baixar o app</a>
     <a href="{{ site.baseurl }}/termos/" {% if page.url == '/termos/' %}aria-current="page"{% endif %}>Termos de Uso</a>
     <a href="{{ site.baseurl }}/privacidade/" {% if page.url == '/privacidade/' %}aria-current="page"{% endif %}>Política de Privacidade</a>
     <a href="{{ site.baseurl }}/diretrizes/" {% if page.url == '/diretrizes/' %}aria-current="page"{% endif %}>Diretrizes da Comunidade</a>
@@ -64,7 +70,7 @@
     {{ content | replace: '<table>', '<div class="table-wrap"><table>' | replace: '</table>', '</table></div>' }}
   </main>
   <footer>
-    CitySpots · Natal, Cidade do Sol ☀️
+    CitySpots · Natal, Cidade do Sol <span class="ic-gold">{% include icons/sun.svg %}</span>
   </footer>
 </body>
 </html>

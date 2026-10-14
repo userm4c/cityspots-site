@@ -18,7 +18,7 @@ Elas fazem parte dos [Termos de Uso](TERMOS_DE_USO.md). Quem não segue as diret
 - **Check-in só onde você está.** O check-in confirma que você esteve no lugar. **Falsificar a localização** (GPS falso, aplicativos de localização simulada, emuladores) para ganhar XP, títulos ou subir no ranking é proibido. O app detecta localização simulada.
 - **Raridade e descrição honestas.** Não exagere a raridade de um spot nem descreva coisas que não existem lá.
 - **Avistamentos verdadeiros.** Só avise que algo está acontecendo num spot se for verdade.
-- **Uma pessoa, uma conta.** Não crie contas extras para se dar curtidas, 🔥, seguidores ou XP.
+- **Uma pessoa, uma conta.** Não crie contas extras para se dar curtidas, <span class="ic-fire">{% include icons/flame.svg %}</span>, seguidores ou XP.
 
 ## 2. Respeite as pessoas
 
@@ -105,4 +105,4 @@ Para contestar uma decisão, escreva para **userm4c@gmail.com**, explicando o ca
 
 Estas diretrizes podem mudar conforme a comunidade cresce. Mudanças importantes serão avisadas no app.
 
-Obrigado por ajudar a fazer do CitySpots um lugar bom de explorar. ☀️
+Obrigado por ajudar a fazer do CitySpots um lugar bom de explorar. <span class="ic-gold">{% include icons/sun.svg %}</span>
