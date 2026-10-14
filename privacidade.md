@@ -54,7 +54,7 @@ Esta política explica quais dados o CitySpots coleta, para que usa, com quem co
 | **No check-in:** a posição, a precisão do GPS, a velocidade e se a localização parece **simulada** | Evitar check-ins falsos e trapaças no ranking |
 | Endereço IP e data/hora de login | Segurança da conta e encerramento de sessões |
 | Identificador do aparelho para notificações (token do Firebase) | Enviar notificações push, se você permitir |
-| **Região de origem** (país, estado e cidade): a que você informou no cadastro ou, para contas antigas que ainda não informaram, deduzida da cidade onde você mais faz check-ins e cria spots; e o **horário do último uso do app** | Estatísticas internas por região (quantas pessoas usam o app em cada cidade) e organização da moderação por região. Nunca é mostrada a outros usuários e não guarda sua posição exata |
+| **Região de origem** (país, estado e cidade): a que você informou no cadastro ou, para contas antigas que ainda não informaram, deduzida da cidade onde você mais faz check-ins e cria spots; além do **horário do último uso do app** e dos **dias em que você usou o app** (só a data, sem hora nem lugar) | Estatísticas internas por região (quantas pessoas usam o app em cada cidade), métricas do app (quantas pessoas usam por dia e quantas voltam) e organização da moderação por região. Nunca é mostrada a outros usuários e não guarda sua posição exata |
 | Versão do app que você usa | Avisar quando há uma atualização obrigatória e saber quando versões antigas podem deixar de funcionar |
 | **Relatórios de falha:** quando o app fecha sozinho ou uma tela quebra, o app envia automaticamente a mensagem do erro, o trecho do código onde ele aconteceu, a tela em que você estava, a versão do app, a versão do sistema e o modelo do celular. Se você estiver logado, o relatório fica ligado à sua conta | Encontrar e corrigir problemas no app. **Não inclui** fotos, textos que você digitou nem sua localização |
 | **Câmera**, só quando você toca em "Tirar foto" ou abre o leitor de QR | Fotografar o check-in ou o spot e ler o QR code do lugar. A leitura do QR acontece no aparelho: **não guardamos nem enviamos as imagens da câmera**, só a foto que você escolher publicar |
@@ -170,7 +170,7 @@ Pela LGPD, você pode pedir a qualquer momento:
 - **confirmação** de que tratamos seus dados e **acesso** a eles;
 - **correção** de dados incompletos ou errados (boa parte você mesmo faz em "Editar perfil");
 - **anonimização, bloqueio ou eliminação** de dados desnecessários ou tratados em desacordo com a lei;
-- **portabilidade** dos seus dados;
+- **portabilidade** dos seus dados: você mesmo baixa uma cópia de tudo em **Configurações → Baixar meus dados** (as fotos vão como link);
 - **exclusão da conta e dos dados** (pelo app, em Configurações → Excluir conta, ou pelo e-mail);
 - **informação** sobre com quem compartilhamos;
 - **revogação do consentimento** (por exemplo, desligando a localização ou as notificações nas configurações do Android);
