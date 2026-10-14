@@ -95,6 +95,8 @@ Esta política explica quais dados o CitySpots coleta, para que usa, com quem co
 - a lista "Quero visitar" (spots com seu <span class="ic-fire">{% include icons/flame.svg %}</span>), **se você deixar visível**;
 - o **passaporte de cidades** (as cidades onde você fez check-in), que segue a mesma regra de privacidade dos seus check-ins.
 - **sugestões que você envia ao mural**, com o seu nome de usuário. Quem votou em cada sugestão não aparece: só o número de votos.
+- sua **posição na classificação**: no ranking Mundo, pelo seu XP; nos rankings por cidade, estado, região e país, pelo XP ganho nos spots daquele lugar. Como isso mostra por onde você anda, os rankings por lugar seguem a mesma regra dos seus check-ins (seção 5): se eles não são públicos, você só aparece ali para quem pode vê-los;
+- o **Top 3 da semana** de cada cidade (a coroa na classificação), com a mesma regra acima.
 
 **Só você (e a equipe, quando necessário para operar o app):**
 - e-mail, senha, gênero;
