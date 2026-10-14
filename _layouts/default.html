@@ -51,6 +51,11 @@
     code { background: var(--surface); padding: 1px 5px; border-radius: 4px; }
     footer { border-top: 1px solid var(--border); padding: 20px 16px; text-align: center; font-size: 13px; color: var(--muted); }
     footer a { color: var(--muted); }
+    footer .social { display: flex; justify-content: center; gap: 18px; border: 0; padding: 0; margin-bottom: 6px; }
+    footer .social a { display: inline-flex; padding: 6px; border-radius: 10px; }
+    footer .social a:hover { color: var(--gold); background: var(--surface); }
+    footer .social .ti { width: 22px; height: 22px; }
+    footer p { margin: 0 0 8px; }
   </style>
 </head>
 <body>
@@ -70,6 +75,13 @@
     {{ content | replace: '<table>', '<div class="table-wrap"><table>' | replace: '</table>', '</table></div>' }}
   </main>
   <footer>
+    <nav class="social" aria-label="CitySpots nas redes sociais">
+      <a href="https://www.instagram.com/cityspotsoficial/" target="_blank" rel="noopener" aria-label="Instagram">{% include icons/brand-instagram.svg %}</a>
+      <a href="https://www.tiktok.com/@cityspotsoficial" target="_blank" rel="noopener" aria-label="TikTok">{% include icons/brand-tiktok.svg %}</a>
+      <a href="https://www.threads.net/@cityspotsoficial" target="_blank" rel="noopener" aria-label="Threads">{% include icons/brand-threads.svg %}</a>
+      <a href="https://www.youtube.com/@CitySpotsOficial" target="_blank" rel="noopener" aria-label="YouTube">{% include icons/brand-youtube.svg %}</a>
+    </nav>
+    <p>@CitySpotsOficial em todas as redes</p>
     CitySpots · Natal, Cidade do Sol <span class="ic-gold">{% include icons/sun.svg %}</span>
   </footer>
 </body>
