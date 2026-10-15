@@ -44,7 +44,6 @@ permalink: /patrocine/
 </style>
 
 <div class="sp-hero">
-<h1>{% include icons/heart-handshake.svg %} Patrocine um mutirão</h1>
 <p>No CitySpots, a comunidade se junta para limpar praças, praias e lugares que precisam de cuidado. Sua empresa pode apoiar doando o que faz falta no dia: <strong>sacos de lixo, luvas, água, lanche, ferramentas ou brindes</strong>. Em troca, o nome da sua empresa aparece no mutirão, no registro de antes e depois e na página do resultado.</p>
 </div>
 
