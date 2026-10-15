@@ -48,7 +48,7 @@ permalink: /patrocine/
 </div>
 
 <div class="note">
-<strong>Como funciona:</strong> você escolhe um mutirão e conta o que pode oferecer. A equipe do CitySpots da região confere a empresa e quem organiza o mutirão confirma. Aí vocês combinam a entrega direto. O apoio é <strong>só em produtos</strong>: o CitySpots não recebe nem repassa dinheiro. Até 3 empresas por mutirão.
+<strong>Como funciona:</strong> você escolhe um mutirão e conta o que pode oferecer. A equipe do CitySpots da região confere a empresa e quem organiza o mutirão confirma. Aí vocês combinam a entrega direto. O apoio é <strong>só em produtos</strong>: o CitySpots não recebe nem repassa dinheiro. Cada mutirão aceita poucas empresas (normalmente até 3), e você pode cobrir itens específicos da lista do que falta.
 </div>
 
 <div id="sp-result"></div>
@@ -74,6 +74,10 @@ permalink: /patrocine/
     <label><input type="checkbox" value="lanche"> Lanche</label>
     <label><input type="checkbox" value="ferramentas"> Ferramentas</label>
     <label><input type="checkbox" value="brindes"> Brindes</label>
+  </div>
+  <div id="f-items-wrap" style="display:none">
+    <label>Quais itens da lista do mutirão você cobre? (opcional)</label>
+    <div class="sp-kinds" id="f-items"></div>
   </div>
   <label for="f-offer">Conte com detalhes *</label>
   <textarea id="f-offer" maxlength="500" placeholder="Ex.: 50 sacos de lixo de 100 L, 20 pares de luvas e 2 fardos de água." required></textarea>
@@ -104,6 +108,10 @@ permalink: /patrocine/
   function choose(m) {
     chosen = m;
     $('sp-chosen').textContent = m.title;
+    // Itens da lista que ainda não têm apoio: a empresa marca o que cobre.
+    var free = (m.items || []).filter(function (i) { return !i.sponsored_by; });
+    $('f-items').innerHTML = free.map(function (i) { return '<label><input type="checkbox" value="' + esc(i.id) + '"> ' + esc(i.label) + '</label>'; }).join('');
+    $('f-items-wrap').style.display = free.length ? 'block' : 'none';
     $('sp-form').style.display = 'block';
     $('sp-msg').className = 'sp-msg';
     document.querySelectorAll('.sp-card').forEach(function (c) { c.classList.toggle('on', c.dataset.id === m.id); });
@@ -116,7 +124,7 @@ permalink: /patrocine/
       '<div class="sp-meta">' + (m.official ? '<span class="sp-pill">Oficial</span>' : '') + '<span class="sp-pill gold">' + (m.slots_left > 0 ? m.slots_left + ' vaga(s) para apoio' : 'Apoio completo') + '</span></div>' +
       '<div class="sp-meta">' + esc(when(m.starts_at, m.ends_at)) + '</div>' +
       '<div class="sp-meta">' + esc(m.spot_title) + (m.city ? ' · ' + esc(m.city) : '') + (m.state ? ' / ' + esc(m.state) : '') + ' · ' + m.going + ' pessoa(s) confirmada(s)</div>' +
-      (m.items && m.items.length ? '<div class="sp-meta">Precisa de: ' + m.items.map(esc).join(', ') + '</div>' : '') +
+      (m.items && m.items.length ? '<div class="sp-meta">Precisa de: ' + m.items.map(function (i) { return esc(i.label) + (i.sponsored_by ? ' <span class="sp-pill gold">apoio: ' + esc(i.sponsored_by) + '</span>' : ''); }).join(', ') + '</div>' : '') +
       sponsorsHtml(m.sponsors);
     if (m.slots_left > 0) el.addEventListener('click', function () { choose(m); });
     return el;
@@ -162,11 +170,12 @@ permalink: /patrocine/
     if (!chosen) return;
     var msg = $('sp-msg');
     if (!$('f-rules').checked) { msg.className = 'sp-msg err'; msg.textContent = 'Marque a confirmação das regras para enviar.'; return; }
-    var kinds = Array.prototype.slice.call(document.querySelectorAll('.sp-kinds input:checked')).map(function (i) { return i.value; });
+    var kinds = Array.prototype.slice.call(document.querySelectorAll('.sp-form > .sp-kinds input:checked')).map(function (i) { return i.value; });
+    var itemIds = Array.prototype.slice.call(document.querySelectorAll('#f-items input:checked')).map(function (i) { return i.value; });
     var body = {
       company_name: $('f-company').value.trim(), sector: $('f-sector').value.trim(), company_doc: $('f-doc').value.trim() || undefined,
       website: $('f-site').value.trim() || undefined, contact_name: $('f-name').value.trim(), contact_email: $('f-email').value.trim(),
-      contact_phone: $('f-phone').value.trim() || undefined, offer: $('f-offer').value.trim(), offer_kinds: kinds, accept_rules: true, hp: $('f-hp').value
+      contact_phone: $('f-phone').value.trim() || undefined, offer: $('f-offer').value.trim(), offer_kinds: kinds, item_ids: itemIds, accept_rules: true, hp: $('f-hp').value
     };
     $('f-send').disabled = true;
     fetch(API + '/public/mutiroes/' + chosen.id + '/sponsor', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) })
