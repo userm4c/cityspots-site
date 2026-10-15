@@ -39,6 +39,8 @@ Esta política explica quais dados o CitySpots coleta, para que usa, com quem co
 | **Sugestões** no mural (título, explicação) e os votos ("Quero também") que você dá | Quando você sugere ou vota | Não |
 | Foto de perfil, banner, bio, pronomes e links (Instagram, TikTok, YouTube, site) | Quando você personaliza o perfil | Não |
 | Gênero | Editar perfil | Não |
+| **Nacionalidade** (a principal é declarada por você; as outras, comprovadas pela equipe) | Personalizar → Nacionalidades | Não |
+| **Foto de um documento** (passaporte, RG ou certidão), só para comprovar uma nacionalidade a mais. É vista apenas pela equipe e **apagada assim que a equipe decide** | Quando você pede para comprovar | Não |
 | Spots, fotos, check-ins, legendas, observações, comentários, avistamentos e trilhas | Quando você publica | Não |
 | Curtidas, <span class="ic-fire">{% include icons/flame.svg %}</span> de interesse, pessoas que você segue | Quando você interage | Não |
 | Denúncias e seus motivos | Quando você denuncia | Não |
@@ -93,7 +95,7 @@ Esta política explica quais dados o CitySpots coleta, para que usa, com quem co
 - **check-ins, de acordo com a sua escolha** (seção 5);
 - comentários, o número de curtidas, quem você segue e quem segue você;
 - a lista "Quero visitar" (spots com seu <span class="ic-fire">{% include icons/flame.svg %}</span>), **se você deixar visível**;
-- o **passaporte de cidades** (as cidades onde você fez check-in), que segue a mesma regra de privacidade dos seus check-ins.
+- o **passaporte**: as cidades, os estados e os países onde você fez check-in (seguem a mesma regra de privacidade dos seus check-ins) e as **bandeiras das suas nacionalidades**, que você pode esconder em Personalizar.
 - **sugestões que você envia ao mural**, com o seu nome de usuário. Quem votou em cada sugestão não aparece: só o número de votos.
 - sua **posição na classificação**: no ranking Mundo, pelo seu XP; nos rankings por cidade, estado, região e país, pelo XP ganho nos spots daquele lugar. Como isso mostra por onde você anda, os rankings por lugar seguem a mesma regra dos seus check-ins (seção 5): se eles não são públicos, você só aparece ali para quem pode vê-los;
 - o **Top 3 da semana** de cada cidade (a coroa na classificação), com a mesma regra acima.
@@ -101,12 +103,15 @@ Esta política explica quais dados o CitySpots coleta, para que usa, com quem co
 - **mutirões**: quem organiza aparece para todos; a lista de quem vai (e de quem confirmou presença) e o que cada um vai levar aparecem para quem abre o mutirão. As fotos do antes e do depois ficam públicas no spot. Ao confirmar presença, o app confere se você está no lugar, mas não guarda a sua posição: guarda só o horário;
 - a **meta da cidade** mostra apenas números (quantos check-ins e quantas pessoas participaram), sem nomes.
 
+**Pontos de cuidado:** a foto, o tipo de problema, a frase e o local do ponto ficam visíveis para todos no app, **sem o seu nome** (rostos nas fotos são desfocados automaticamente). Quem marcou ou confirmou cada ponto fica registrado só para a equipe do CitySpots, para evitar abuso. Os pontos podem entrar, de forma agregada (local, tipo, data, fotos e situação, **sem identificar quem marcou**), em relatórios entregues a prefeituras e órgãos públicos para ajudar a cuidar da cidade.
+
 **Empresas que patrocinam mutirões:** o nome da empresa, o logo, o site ou Instagram e o que ela oferece aparecem publicamente no mutirão e na página do resultado. Os dados de contato (nome, e-mail e telefone de quem preencheu o pedido) e o CNPJ ficam só com a equipe do CitySpots da região e, depois que o apoio é aceito, com quem organiza o mutirão, apenas para combinar a entrega. Guardamos esses dados enquanto o mutirão estiver no app; a empresa pode pedir a exclusão a qualquer momento pelo contato da seção 13.
 
 **"Movimento agora"** mostra lugares com 3 ou mais pessoas diferentes nas últimas 2 horas, apenas com o número. Com menos de 3 pessoas o lugar não aparece, para que ninguém possa ser localizado por esse recurso.
 
 **Só você (e a equipe, quando necessário para operar o app):**
 - e-mail, senha, gênero;
+- a foto do documento enviada para comprovar nacionalidade (só a equipe global do CitySpots vê, por um link temporário, e ela é apagada na decisão);
 - localização exata dos seus check-ins (os outros veem o spot, não o ponto exato onde você estava);
 - suas configurações, notificações e denúncias;
 - check-ins que você **ocultou**;
@@ -170,6 +175,7 @@ Os demais dados (conta, publicações, localização dos check-ins) ficam no **n
 | Relatórios de falha | 90 dias |
 | Check-ins guardados no aparelho sem internet | Até serem enviados, ou descartados se passarem de 24 horas |
 | Cidade baixada no aparelho | Até você apagar em Configurações → Offline ou desinstalar o app |
+| Foto do documento para comprovar nacionalidade | Até a equipe aprovar ou recusar, ou no máximo **30 dias**; depois fica só o registro de quem confirmou e quando |
 
 **Quando você exclui a conta**, apagamos seus dados pessoais e suas publicações em até **30 dias**. Exceções:
 - spots que receberam contribuições de outras pessoas podem continuar no app, **sem vínculo com você**;

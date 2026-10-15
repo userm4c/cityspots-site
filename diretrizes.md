@@ -6,7 +6,7 @@ permalink: /diretrizes/
 
 **Última atualização:** 15 de outubro de 2026
 
-O CitySpots existe para a gente descobrir, valorizar e cuidar dos lugares da nossa cidade, juntos. Estas diretrizes explicam o que esperamos de quem participa. Elas valem para tudo o que você publica: spots, fotos, check-ins, legendas, observações, comentários, recados, avistamentos, trilhas, mutirões, perfil e anúncios.
+O CitySpots existe para a gente descobrir, valorizar e cuidar dos lugares da nossa cidade, juntos. Estas diretrizes explicam o que esperamos de quem participa. Elas valem para tudo o que você publica: spots, fotos, check-ins, legendas, observações, comentários, recados, avistamentos, trilhas, mutirões, pontos de cuidado, perfil e anúncios.
 
 Elas fazem parte dos [Termos de Uso](TERMOS_DE_USO.md). Quem não segue as diretrizes pode ter conteúdo removido e a conta suspensa ou banida (veja a seção 9).
 
@@ -60,6 +60,15 @@ Mutirão é quando a comunidade se junta para cuidar de um lugar. Para começar 
 - **Presença de verdade.** XP e selos só valem com o check-in do mutirão feito no lugar e no horário, e com as fotos do antes e do depois. Mutirão de fachada é fraude (seção 1).
 - **Sem bandeira.** Mutirão não serve para divulgar partido, candidato, campanha política ou religião, nem para vender produtos.
 - **Apoio de empresas** é bem-vindo, só em produtos (materiais, água, lanche, ferramentas, brindes) e pela página "Patrocine um mutirão", com conferência da equipe. Quem organiza não pode cobrar dos participantes nem transformar o mutirão em ação de venda; bebida alcoólica, cigarro/vape e apostas não patrocinam mutirões.
+
+### Pontos de cuidado
+
+Pontos de cuidado mostram problemas em lugares públicos (lixo, mato alto, calçada quebrada, iluminação apagada, vandalismo, árvore caída). Para que sejam úteis e justos:
+
+- **Marque só onde você está**, com foto de verdade do problema, e só em **lugares públicos**: rua, praça, calçada, praia, canteiro.
+- **Mostre o problema, não as pessoas.** Não fotografe ninguém de propósito, não aponte casas, lojas ou pessoas como culpadas e não use o ponto para vingança ou briga de vizinhos.
+- **Seja honesto** ao confirmar ("também vi") e ao dizer que algo foi resolvido: só faça isso no local, vendo o lugar.
+- **Não é canal de emergência.** Em perigo, ligue para a Polícia (190), os Bombeiros (193) ou a Defesa Civil (199).
 
 ### Recados escondidos
 

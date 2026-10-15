@@ -79,6 +79,8 @@ O CitySpots mostra lugares, mas **não garante que eles sejam seguros, abertos, 
 
 **Mutirões.** Os mutirões são organizados pelos próprios usuários: o CitySpots é só a ferramenta que ajuda a combinar o encontro e registrar o resultado. Quem organiza e quem participa são responsáveis pelo que fazem no local, pela própria segurança e por seguir as regras das Diretrizes da Comunidade (só limpeza simples, nada perigoso, menores só acompanhados). Aprovar um mutirão no app não significa que o CitySpots o supervisiona, nem que haja autorização de quem cuida do lugar.
 
+**Pontos de cuidado.** Os pontos de cuidado são marcados pelos usuários. O CitySpots reúne essas informações e pode levá-las às prefeituras e a outros órgãos públicos, mas **não é um canal oficial**, não encaminha emergências e **não garante** que os problemas sejam resolvidos ou em quanto tempo. Para emergências, use os serviços públicos (190, 193, 199).
+
 **Patrocínio de mutirões.** Empresas podem apoiar um mutirão doando produtos (materiais de limpeza, água, lanche, ferramentas ou brindes), pela página "Patrocine um mutirão". O apoio é **só em produtos**, combinado e entregue diretamente entre a empresa e quem organiza: o CitySpots **não recebe, não repassa e não garante** pagamentos nem entregas. A equipe do CitySpots confere a empresa e quem organiza decide se aceita; cada mutirão tem no máximo 3 apoiadores. **Não podem patrocinar** empresas de bebida alcoólica, cigarro ou vape, apostas e jogos de azar, partidos, candidatos e campanhas políticas, e instituições religiosas. Patrocinar não dá nenhuma vantagem no app (destaque de spots, classificação, aprovações) além do reconhecimento do apoio no próprio mutirão.
 
 ## 7. XP, níveis, títulos, selos e cosméticos
