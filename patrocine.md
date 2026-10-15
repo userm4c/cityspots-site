@@ -11,6 +11,9 @@ permalink: /patrocine/
   .sp-card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 14px 16px; cursor: pointer; }
   .sp-card:hover, .sp-card.on { border-color: var(--purple); }
   .sp-card h3 { margin: 0 0 4px; color: var(--heading); font-size: 17px; }
+  .sp-cover { width: 100%; height: 170px; object-fit: cover; border-radius: 10px; margin-bottom: 10px; display: block; }
+  .sp-photos { display: flex; gap: 6px; overflow-x: auto; margin: 12px 0; }
+  .sp-photos img { height: 140px; border-radius: 10px; }
   .sp-meta { color: var(--muted); font-size: 14px; }
   .sp-pill { display: inline-block; font-size: 12px; font-weight: 700; padding: 2px 8px; border-radius: 10px; background: rgba(108, 99, 255, .2); color: var(--purple); margin-right: 6px; }
   .sp-pill.gold { background: rgba(251, 191, 36, .15); color: var(--gold); }
@@ -120,7 +123,8 @@ permalink: /patrocine/
   function card(m) {
     var el = document.createElement('div');
     el.className = 'sp-card'; el.dataset.id = m.id;
-    el.innerHTML = '<h3>' + esc(m.title) + '</h3>' +
+    el.innerHTML = (m.cover_url ? '<img class="sp-cover" src="' + esc(m.cover_url) + '" alt="Como o lugar está">' : '') +
+      '<h3>' + esc(m.title) + '</h3>' +
       '<div class="sp-meta">' + (m.official ? '<span class="sp-pill">Oficial</span>' : '') + '<span class="sp-pill gold">' + (m.slots_left > 0 ? m.slots_left + ' vaga(s) para apoio' : 'Apoio completo') + '</span></div>' +
       '<div class="sp-meta">' + esc(when(m.starts_at, m.ends_at)) + '</div>' +
       '<div class="sp-meta">' + esc(m.spot_title) + (m.city ? ' · ' + esc(m.city) : '') + (m.state ? ' / ' + esc(m.state) : '') + ' · ' + m.going + ' pessoa(s) confirmada(s)</div>' +
@@ -138,6 +142,8 @@ permalink: /patrocine/
       html += '<p><strong>' + m.present + ' pessoas</strong> ajudaram' + (m.result_bags ? ' e recolheram <strong>' + m.result_bags + ' sacos de lixo</strong>' : '') + '.' + (m.result_note ? ' ' + esc(m.result_note) : '') + '</p>';
       if (m.sponsors.length) html += '<p class="sp-meta">Com o apoio de:</p>' + sponsorsHtml(m.sponsors);
     } else {
+      var sit = (m.photos || []).filter(function (p) { return p.kind === 'situation'; });
+      if (sit.length) html += '<div class="sp-photos">' + sit.map(function (p) { return '<img src="' + esc(p.url) + '" alt="Como o lugar está">'; }).join('') + '</div>';
       if (m.description) html += '<p>' + esc(m.description) + '</p>';
       html += '<p class="sp-meta">' + m.going + ' pessoa(s) confirmada(s).</p>' + sponsorsHtml(m.sponsors);
     }
