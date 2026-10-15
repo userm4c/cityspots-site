@@ -101,6 +101,8 @@ Esta política explica quais dados o CitySpots coleta, para que usa, com quem co
 - **mutirões**: quem organiza aparece para todos; a lista de quem vai (e de quem confirmou presença) e o que cada um vai levar aparecem para quem abre o mutirão. As fotos do antes e do depois ficam públicas no spot. Ao confirmar presença, o app confere se você está no lugar, mas não guarda a sua posição: guarda só o horário;
 - a **meta da cidade** mostra apenas números (quantos check-ins e quantas pessoas participaram), sem nomes.
 
+**Empresas que patrocinam mutirões:** o nome da empresa, o logo, o site ou Instagram e o que ela oferece aparecem publicamente no mutirão e na página do resultado. Os dados de contato (nome, e-mail e telefone de quem preencheu o pedido) e o CNPJ ficam só com a equipe do CitySpots da região e, depois que o apoio é aceito, com quem organiza o mutirão, apenas para combinar a entrega. Guardamos esses dados enquanto o mutirão estiver no app; a empresa pode pedir a exclusão a qualquer momento pelo contato da seção 13.
+
 **"Movimento agora"** mostra lugares com 3 ou mais pessoas diferentes nas últimas 2 horas, apenas com o número. Com menos de 3 pessoas o lugar não aparece, para que ninguém possa ser localizado por esse recurso.
 
 **Só você (e a equipe, quando necessário para operar o app):**

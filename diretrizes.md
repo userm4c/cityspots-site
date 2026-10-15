@@ -59,6 +59,7 @@ Mutirão é quando a comunidade se junta para cuidar de um lugar. Para começar 
 - **Quem organiza** precisa ter conta com algum tempo de uso e nível mínimo, e a proposta passa pela equipe da região antes de aparecer no app.
 - **Presença de verdade.** XP e selos só valem com o check-in do mutirão feito no lugar e no horário, e com as fotos do antes e do depois. Mutirão de fachada é fraude (seção 1).
 - **Sem bandeira.** Mutirão não serve para divulgar partido, candidato, campanha política ou religião, nem para vender produtos.
+- **Apoio de empresas** é bem-vindo, só em produtos (materiais, água, lanche, ferramentas, brindes) e pela página "Patrocine um mutirão", com conferência da equipe. Quem organiza não pode cobrar dos participantes nem transformar o mutirão em ação de venda; bebida alcoólica, cigarro/vape e apostas não patrocinam mutirões.
 
 ### Recados escondidos
 
