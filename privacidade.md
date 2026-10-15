@@ -4,7 +4,7 @@ title: Política de Privacidade
 permalink: /privacidade/
 ---
 
-**Última atualização:** 14 de outubro de 2026
+**Última atualização:** 15 de outubro de 2026
 
 Esta política explica quais dados o CitySpots coleta, para que usa, com quem compartilha, por quanto tempo guarda e como você controla tudo isso. Ela segue a **Lei Geral de Proteção de Dados (LGPD, Lei nº 13.709/2018)**.
 
@@ -97,6 +97,11 @@ Esta política explica quais dados o CitySpots coleta, para que usa, com quem co
 - **sugestões que você envia ao mural**, com o seu nome de usuário. Quem votou em cada sugestão não aparece: só o número de votos.
 - sua **posição na classificação**: no ranking Mundo, pelo seu XP; nos rankings por cidade, estado, região e país, pelo XP ganho nos spots daquele lugar. Como isso mostra por onde você anda, os rankings por lugar seguem a mesma regra dos seus check-ins (seção 5): se eles não são públicos, você só aparece ali para quem pode vê-los;
 - o **Top 3 da semana** de cada cidade (a coroa na classificação), com a mesma regra acima.
+- **recados que você deixa num spot**, com o seu nome de usuário, mas só para quem também fez check-in naquele spot. Quem não foi vê apenas quantos recados existem;
+- **mutirões**: quem organiza aparece para todos; a lista de quem vai (e de quem confirmou presença) e o que cada um vai levar aparecem para quem abre o mutirão. As fotos do antes e do depois ficam públicas no spot. Ao confirmar presença, o app confere se você está no lugar, mas não guarda a sua posição: guarda só o horário;
+- a **meta da cidade** mostra apenas números (quantos check-ins e quantas pessoas participaram), sem nomes.
+
+**"Movimento agora"** mostra lugares com 3 ou mais pessoas diferentes nas últimas 2 horas, apenas com o número. Com menos de 3 pessoas o lugar não aparece, para que ninguém possa ser localizado por esse recurso.
 
 **Só você (e a equipe, quando necessário para operar o app):**
 - e-mail, senha, gênero;

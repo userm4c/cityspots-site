@@ -4,7 +4,7 @@ title: Termos de Uso
 permalink: /termos/
 ---
 
-**Última atualização:** 11 de outubro de 2026
+**Última atualização:** 15 de outubro de 2026
 
 Bem-vindo ao CitySpots! Estes Termos de Uso são o acordo entre você e o responsável pelo CitySpots. Ao criar uma conta ou usar o app, você concorda com eles, com as [Diretrizes da Comunidade]({{ site.baseurl }}/diretrizes/) e com a [Política de Privacidade]({{ site.baseurl }}/privacidade/). Se não concordar, não use o app.
 
@@ -77,6 +77,8 @@ O CitySpots mostra lugares, mas **não garante que eles sejam seguros, abertos, 
 - **Respeite as leis, as placas e a propriedade privada.** Nunca entre em áreas proibidas por causa de um spot ou de um check-in.
 - Não use o app enquanto dirige.
 
+**Mutirões.** Os mutirões são organizados pelos próprios usuários: o CitySpots é só a ferramenta que ajuda a combinar o encontro e registrar o resultado. Quem organiza e quem participa são responsáveis pelo que fazem no local, pela própria segurança e por seguir as regras das Diretrizes da Comunidade (só limpeza simples, nada perigoso, menores só acompanhados). Aprovar um mutirão no app não significa que o CitySpots o supervisiona, nem que haja autorização de quem cuida do lugar.
+
 ## 7. XP, níveis, títulos, selos e cosméticos
 
 - XP, níveis, títulos, selos, o <span class="ic-fire">{% include icons/flame.svg %}</span> de interesse e os itens de personalização são **elementos do jogo**: **não têm valor em dinheiro**, não podem ser vendidos nem trocados fora do app e não são sua propriedade.
@@ -104,7 +106,7 @@ O app é oferecido **"como está"**, especialmente durante o beta. Podemos alter
 ## 11. Limitação de responsabilidade
 
 Na medida permitida pela lei brasileira, **não nos responsabilizamos** por:
-- danos causados ao visitar spots ou seguir trilhas;
+- danos causados ao visitar spots, seguir trilhas ou participar de mutirões;
 - informações incorretas publicadas por usuários;
 - conteúdo, atitudes ou anúncios de outros usuários ou terceiros;
 - interrupções, falhas ou perda de dados causadas por fatores fora do nosso controle.

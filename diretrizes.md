@@ -4,9 +4,9 @@ title: Diretrizes da Comunidade
 permalink: /diretrizes/
 ---
 
-**Última atualização:** 12 de outubro de 2026
+**Última atualização:** 15 de outubro de 2026
 
-O CitySpots existe para a gente descobrir, valorizar e cuidar dos lugares da nossa cidade, juntos. Estas diretrizes explicam o que esperamos de quem participa. Elas valem para tudo o que você publica: spots, fotos, check-ins, legendas, observações, comentários, avistamentos, trilhas, perfil e anúncios.
+O CitySpots existe para a gente descobrir, valorizar e cuidar dos lugares da nossa cidade, juntos. Estas diretrizes explicam o que esperamos de quem participa. Elas valem para tudo o que você publica: spots, fotos, check-ins, legendas, observações, comentários, recados, avistamentos, trilhas, mutirões, perfil e anúncios.
 
 Elas fazem parte dos [Termos de Uso](TERMOS_DE_USO.md). Quem não segue as diretrizes pode ter conteúdo removido e a conta suspensa ou banida (veja a seção 9).
 
@@ -47,6 +47,22 @@ O CitySpots é sobre valorizar os lugares, não estragá-los.
 - **Respeite propriedade privada e áreas proibidas.** Não cadastre como spot um lugar fechado ao público nem incentive invasão.
 - **Locais perigosos.** Se um spot tem algum risco (trilha difícil, maré, pouca iluminação), avise na descrição. Ninguém deve se colocar em perigo por um check-in.
 - **Patrimônio e cultura.** Ao descrever lugares históricos, culturais ou religiosos, seja respeitoso e fiel aos fatos.
+
+### Mutirões
+
+Mutirão é quando a comunidade se junta para cuidar de um lugar. Para começar com segurança:
+
+- **Só limpeza simples**, por enquanto: recolher lixo e deixar o lugar mais bonito. Pintura, plantio e qualquer mudança permanente só virão depois, e sempre com autorização de quem cuida do lugar (prefeitura, condomínio, dono).
+- **Nada perigoso.** É proibido organizar ou fazer, num mutirão: mexer em fiação ou instalações elétricas, cortar ou podar árvores grandes, entrar em áreas de risco (encostas, mar agitado, prédios em ruína), mexer em entulho perigoso (vidro em grande quantidade, seringas, amianto) ou usar produtos químicos.
+- **Use proteção:** luvas sempre, calçado fechado, água e protetor solar.
+- **Menores de 18 anos** só participam de mutirões marcados como "livre para todas as idades", e sempre acompanhados de um responsável. Só maiores de idade organizam.
+- **Quem organiza** precisa ter conta com algum tempo de uso e nível mínimo, e a proposta passa pela equipe da região antes de aparecer no app.
+- **Presença de verdade.** XP e selos só valem com o check-in do mutirão feito no lugar e no horário, e com as fotos do antes e do depois. Mutirão de fachada é fraude (seção 1).
+- **Sem bandeira.** Mutirão não serve para divulgar partido, candidato, campanha política ou religião, nem para vender produtos.
+
+### Recados escondidos
+
+Recados ficam guardados num spot e só abrem para quem faz check-in lá. Valem as mesmas regras dos comentários: dicas úteis e gentis, nada de ofensa, propaganda ou dados pessoais de outras pessoas.
 
 ## 5. Observações dos check-ins
 
