@@ -57,6 +57,8 @@ O app está em **fase de testes (beta)**. Funções podem mudar, ser removidas o
 
 **Fotos de pessoas.** Rostos são desfocados automaticamente nas fotos de spots e check-ins, mas a ferramenta pode falhar. Evite fotografar pessoas sem autorização.
 
+**Fotos antigas (Ontem e hoje).** Ao enviar uma foto antiga de um lugar, você declara que ela é sua ou da sua família, ou que tem permissão de quem detém os direitos (por exemplo, um arquivo público), e que o crédito informado está correto. A foto só aparece depois que a equipe confere, com o crédito e o seu nome de usuário. Nessas fotos os rostos **não** são desfocados, porque são registros históricos. Se você é dono de uma foto publicada sem permissão, ou aparece numa delas e quer que ela saia, fale com a gente (seção 14): ela sai do ar enquanto verificamos.
+
 ## 5. O que não é permitido
 
 Além do que está nas Diretrizes da Comunidade, é proibido:
