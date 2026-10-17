@@ -4,7 +4,7 @@ title: Diretrizes da Comunidade
 permalink: /diretrizes/
 ---
 
-**Última atualização:** 15 de outubro de 2026
+**Última atualização:** 17 de outubro de 2026
 
 O CitySpots existe para a gente descobrir, valorizar e cuidar dos lugares da nossa cidade, juntos. Estas diretrizes explicam o que esperamos de quem participa. Elas valem para tudo o que você publica: spots, fotos, check-ins, legendas, observações, comentários, recados, avistamentos, trilhas, mutirões, pontos de cuidado, perfil e anúncios.
 
@@ -58,7 +58,7 @@ Mutirão é quando a comunidade se junta para cuidar de um lugar. Para começar 
 - **Menores de 18 anos** só participam de mutirões marcados como "livre para todas as idades", e sempre acompanhados de um responsável. Só maiores de idade organizam.
 - **Quem organiza** precisa ter conta com algum tempo de uso e nível mínimo, e a proposta passa pela equipe da região antes de aparecer no app.
 - **Presença de verdade.** XP e selos só valem com o check-in do mutirão feito no lugar e no horário, e com as fotos do antes e do depois. Mutirão de fachada é fraude (seção 1).
-- **Sem bandeira.** Mutirão não serve para divulgar partido, candidato, campanha política ou religião, nem para vender produtos.
+- **Sem bandeira.** Mutirão é da cidade inteira: não serve para divulgar partido, candidato, campanha política ou religião, de nenhum lado, nem para vender produtos.
 - **Apoio de empresas** é bem-vindo, só em produtos (materiais, água, lanche, ferramentas, brindes) e pela página "Patrocine um mutirão", com conferência da equipe. Quem organiza não pode cobrar dos participantes nem transformar o mutirão em ação de venda; bebida alcoólica, cigarro/vape e apostas não patrocinam mutirões.
 
 ### Pontos de cuidado
