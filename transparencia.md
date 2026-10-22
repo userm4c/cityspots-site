@@ -108,7 +108,7 @@ Este é o relatório de transparência prometido no [Manifesto]({{ site.baseurl 
 
 <script>
   (function () {
-    var API = 'https://m4cserver.tail784c26.ts.net';
+    var API = 'https://api.cityspots.com.br';
     var ADS = {
       off: 'Não há anúncios no app.',
       house: 'Os únicos anúncios no app são do próprio CitySpots e de comércios locais parceiros. A rede de anúncios do Google está desligada.',

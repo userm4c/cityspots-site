@@ -92,7 +92,7 @@ permalink: /patrocine/
 
 <script>
 (function () {
-  var API = 'https://m4cserver.tail784c26.ts.net';
+  var API = 'https://api.cityspots.com.br';
   var chosen = null;
   var $ = function (id) { return document.getElementById(id); };
   function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
