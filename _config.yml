@@ -1,8 +1,8 @@
 title: CitySpots
 description: Descubra e compartilhe os lugares especiais da sua cidade.
 lang: pt-BR
-baseurl: /cityspots-site
-url: https://userm4c.github.io
+baseurl: ""
+url: https://www.cityspots.com.br
 markdown: kramdown
 kramdown:
   input: GFM
