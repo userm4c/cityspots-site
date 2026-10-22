@@ -4,12 +4,12 @@ title: Política de Privacidade
 permalink: /privacidade/
 ---
 
-**Última atualização:** 15 de outubro de 2026
+**Última atualização:** 22 de outubro de 2026
 
 Esta política explica quais dados o CitySpots coleta, para que usa, com quem compartilha, por quanto tempo guarda e como você controla tudo isso. Ela segue a **Lei Geral de Proteção de Dados (LGPD, Lei nº 13.709/2018)**.
 
 **Controlador dos dados:** William Matheus Gomes Ribeiro.
-**Contato para assuntos de privacidade:** **userm4c@gmail.com**.
+**Contato para assuntos de privacidade:** **privacidade@cityspots.com.br**.
 
 ---
 
@@ -193,7 +193,7 @@ Pela LGPD, você pode pedir a qualquer momento:
 - **revogação do consentimento** (por exemplo, desligando a localização ou as notificações nas configurações do Android);
 - **revisão** de decisões tomadas só por meios automáticos.
 
-**Como pedir:** escreva para **userm4c@gmail.com**. Respondemos em até **15 dias**. Você também pode reclamar à **Autoridade Nacional de Proteção de Dados (ANPD)**.
+**Como pedir:** escreva para **privacidade@cityspots.com.br**. Respondemos em até **15 dias**. Você também pode reclamar à **Autoridade Nacional de Proteção de Dados (ANPD)**.
 
 ## 10. Segurança
 
@@ -214,4 +214,4 @@ Quando esta política mudar de forma importante, avisaremos no app antes de a mu
 
 ## 13. Contato
 
-**William Matheus Gomes Ribeiro**, **userm4c@gmail.com**.
+**William Matheus Gomes Ribeiro**, **privacidade@cityspots.com.br**.

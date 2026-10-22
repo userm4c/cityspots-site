@@ -4,11 +4,11 @@ title: Termos de Uso
 permalink: /termos/
 ---
 
-**Última atualização:** 15 de outubro de 2026
+**Última atualização:** 22 de outubro de 2026
 
 Bem-vindo ao CitySpots! Estes Termos de Uso são o acordo entre você e o responsável pelo CitySpots. Ao criar uma conta ou usar o app, você concorda com eles, com as [Diretrizes da Comunidade]({{ site.baseurl }}/diretrizes/) e com a [Política de Privacidade]({{ site.baseurl }}/privacidade/). Se não concordar, não use o app.
 
-**Quem é o responsável:** William Matheus Gomes Ribeiro, contato: **userm4c@gmail.com**. Neste documento, "nós" e "CitySpots" se referem a esse responsável.
+**Quem é o responsável:** William Matheus Gomes Ribeiro, contato: **contato@cityspots.com.br**. Neste documento, "nós" e "CitySpots" se referem a esse responsável.
 
 ---
 
@@ -129,4 +129,4 @@ Estes termos seguem as **leis do Brasil**. Conflitos serão resolvidos no foro d
 
 ## 14. Contato
 
-Dúvidas, pedidos ou reclamações: **userm4c@gmail.com**.
+Dúvidas, pedidos ou reclamações: **contato@cityspots.com.br**.

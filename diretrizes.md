@@ -4,7 +4,7 @@ title: Diretrizes da Comunidade
 permalink: /diretrizes/
 ---
 
-**Última atualização:** 17 de outubro de 2026
+**Última atualização:** 22 de outubro de 2026
 
 O CitySpots existe para a gente descobrir, valorizar e cuidar dos lugares da nossa cidade, juntos. Estas diretrizes explicam o que esperamos de quem participa. Elas valem para tudo o que você publica: spots, fotos, check-ins, legendas, observações, comentários, recados, avistamentos, trilhas, mutirões, pontos de cuidado, perfil e anúncios.
 
@@ -125,7 +125,7 @@ Dependendo da gravidade e de quantas vezes aconteceu:
 | Violação grave (conteúdo sexual, ódio, ameaça, golpe, exposição de dados, fraude de localização em massa) | **Banimento** imediato |
 | Crime | Banimento e comunicação às autoridades |
 
-Para contestar uma decisão, escreva para **userm4c@gmail.com**, explicando o caso.
+Para contestar uma decisão, toque em **"Contestar"** no aviso que chega no app: quem revisa é outra pessoa da equipe. Se preferir, escreva para **contato@cityspots.com.br** explicando o caso.
 
 ## 10. Mudanças
 
