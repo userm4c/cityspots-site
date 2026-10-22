@@ -54,6 +54,8 @@ permalink: /patrocine/
 <strong>Como funciona:</strong> você escolhe um mutirão e conta o que pode oferecer. A equipe do CitySpots da região confere a empresa e quem organiza o mutirão confirma. Aí vocês combinam a entrega direto. O apoio é <strong>só em produtos</strong>: o CitySpots não recebe nem repassa dinheiro. Cada mutirão aceita poucas empresas (normalmente até 3), e você pode cobrir itens específicos da lista do que falta.
 </div>
 
+<p class="sp-meta">Dúvidas ou uma parceria maior? Escreva para <a href="mailto:parcerias@cityspots.com.br">parcerias@cityspots.com.br</a>.</p>
+
 <div id="sp-result"></div>
 
 <h2 id="sp-list-title">Mutirões abertos para apoio</h2>

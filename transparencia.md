@@ -78,7 +78,7 @@ Este é o relatório de transparência prometido no [Manifesto]({{ site.baseurl 
 <button class="tr-more" id="tr-more" hidden>Ver mais</button>
 
 <h2>Pedidos de governos e da Justiça</h2>
-<p>Quantas vezes algum governo, polícia ou juiz pediu ao CitySpots para retirar conteúdo ou entregar dados de alguém.</p>
+<p>Quantas vezes algum governo, polícia ou juiz pediu ao CitySpots para retirar conteúdo ou entregar dados de alguém. Pedidos oficiais devem ser enviados para <a href="mailto:juridico@cityspots.com.br">juridico@cityspots.com.br</a>.</p>
 <div class="tr-grid">
   <div class="tr-card"><div class="tr-num" data-k="legal_requests.content"></div><div class="tr-label">pedidos para retirar conteúdo</div></div>
   <div class="tr-card"><div class="tr-num" data-k="legal_requests.data"></div><div class="tr-label">pedidos de dados de usuários</div></div>

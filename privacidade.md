@@ -155,7 +155,7 @@ Esta política será atualizada antes de qualquer anúncio real de terceiros ser
 Os demais dados (conta, publicações, localização dos check-ins) ficam no **nosso próprio servidor, no Brasil**. A moderação automática de fotos (desfoque de rostos e detecção de nudez) roda no nosso servidor: **suas fotos não são enviadas a serviços de inteligência artificial de terceiros**.
 
 **Também podemos compartilhar dados:**
-- por **ordem judicial** ou exigência de autoridade competente;
+- por **ordem judicial** ou exigência de autoridade competente (pedidos oficiais: **juridico@cityspots.com.br**);
 - para proteger direitos, a segurança dos usuários ou investigar fraudes;
 - com parceiros (prefeitura, secretarias, instituições), **só em forma anônima e agregada**, sem identificar ninguém.
 
