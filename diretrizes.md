@@ -4,7 +4,7 @@ title: Diretrizes da Comunidade
 permalink: /diretrizes/
 ---
 
-**Última atualização:** 22 de outubro de 2026
+**Última atualização:** 24 de outubro de 2026
 
 O CitySpots existe para a gente descobrir, valorizar e cuidar dos lugares da nossa cidade, juntos. Estas diretrizes explicam o que esperamos de quem participa. Elas valem para tudo o que você publica: spots, fotos, check-ins, legendas, observações, comentários, recados, avistamentos, trilhas, mutirões, pontos de cuidado, perfil e anúncios.
 
@@ -38,6 +38,7 @@ Elas fazem parte dos [Termos de Uso](TERMOS_DE_USO.md). Quem não segue as diret
 - **Golpes, fraudes e correntes.**
 - **Spam e propaganda disfarçada.** Divulgar um negócio é permitido **só** pelos anúncios identificados como "Patrocinado". Comentários repetidos, links em massa e spots criados só para fazer propaganda serão removidos.
 - **Conteúdo que não é seu**, como fotos de outras pessoas ou de sites, sem autorização.
+- **Propostas da cidade** (a partir de 8 de novembro de 2026) seguem o Manifesto, seção 2a: sem partido, sem candidato, sem religião e sem ataque a grupos de pessoas.
 
 ## 4. Cuide da cidade
 

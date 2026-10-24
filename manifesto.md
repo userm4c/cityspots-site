@@ -4,7 +4,7 @@ title: Manifesto do CitySpots
 permalink: /manifesto/
 ---
 
-**Última atualização:** 17 de outubro de 2026
+**Última atualização:** 24 de outubro de 2026
 
 O CitySpots existe para as pessoas descobrirem, visitarem e cuidarem dos lugares da sua cidade.
 
@@ -19,6 +19,8 @@ O CitySpots existe para as pessoas descobrirem, visitarem e cuidarem dos lugares
 
 Estes são os compromissos que o CitySpots assume com quem usa o app. Eles valem para a equipe de hoje e para qualquer dono futuro.
 
+> **Aviso de mudança (24 de outubro de 2026):** a nova seção **2a. Propostas da cidade, sem partido** passa a valer em **8 de novembro de 2026**. Ela deixa claro que o CitySpots pode propor melhorias e leis para a cidade a partir do que a comunidade registra, **sem apoiar candidato nem partido**. Por quê: a frase "o app não é palanque" podia ser lida como se nem isso fosse permitido, e cuidar da cidade às vezes pede mudar uma regra. Se não concordar, você pode baixar os seus dados e sair antes dessa data (Configurações → Conta).
+
 ## 1. Você vê o que acontece, não o que alguém escolheu para você
 
 - O feed é **em ordem cronológica**: primeiro o que publicaram as pessoas que você segue, depois o que acontece perto de você, sempre do mais recente para o mais antigo.
@@ -32,6 +34,16 @@ Estes são os compromissos que o CitySpots assume com quem usa o app. Eles valem
 - **O app não empurra política para você.** O feed não é ordenado por opinião, nenhum spot, trilha ou desafio é impulsionado por motivo político, e não usamos o que você pensa para decidir o que você vê.
 - **Nenhuma divulgação religiosa**, de nenhuma religião: anúncio, chamada para culto ou evento religioso, campanha ou tentativa de converter pessoas.
 - **Os lugares continuam no mapa.** Igrejas históricas, templos, terreiros, monumentos e praças fazem parte da cidade e podem ser spots, descritos com respeito e fidelidade aos fatos.
+
+## 2a. Propostas da cidade, sem partido
+
+*Vale a partir de 8 de novembro de 2026.*
+
+- O CitySpots pode **propor melhorias e leis** para a cidade, como redutor de velocidade onde há atropelamentos, proteção de animais comunitários, iluminação de praças ou acessibilidade, **a partir do que a comunidade registra no app**.
+- Toda proposta é **suprapartidária**: não cita nem apoia candidato ou partido, e é entregue **a todos os vereadores, deputados e órgãos responsáveis, de qualquer partido**, nunca a um só.
+- Apoiar uma proposta é **opcional**. O app não empurra proposta no feed, ninguém perde nada por não apoiar e quem apoia não ganha XP.
+- Cada proposta mostra **os dados que a sustentam** (sem identificar ninguém), quem a propôs e o que aconteceu depois: se foi protocolada, respondida, aprovada ou arquivada.
+- Temas: cuidado com a cidade, meio ambiente, animais, mobilidade, acessibilidade, espaços públicos e cultura. **Fora:** religião, costumes e qualquer proposta que ataque grupos de pessoas.
 
 ## 3. Seus dados não estão à venda
 
